@@ -1,5 +1,5 @@
 {
-  "name": "@synopsys-sig-community/synopsys-ast",
+  "name": "@synopsys-sig-community/synopsys-sig-node",
   "version": "1.0.0",
   "description": "Node.js Library for Integrating with Synopsys AST Solutions",
   "scripts": {
