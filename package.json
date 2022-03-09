@@ -8,8 +8,7 @@
     "format-check": "prettier --check '**/*.ts'",
     "lint": "eslint src/**/*.ts",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "all": "npm run build && npm run format",
-    "publish": "npm publish"
+    "all": "npm run build && npm run format"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.js",
